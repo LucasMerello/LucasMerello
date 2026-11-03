@@ -1,91 +1,35 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Banner animado de Lucas Merello: desenvolvimento, infraestrutura, redes e cibersegurança." width="1000" />
-
-**ADS concluído &nbsp; / &nbsp; Engenharia da Computação em andamento**
-
-[![GitHub](https://img.shields.io/badge/ACOMPANHE_MEUS_PROJETOS-C7F77A?style=for-the-badge&logo=github&logoColor=11161E)](https://github.com/LucasMerello?tab=repositories)
+<img src="assets/banner.gif" alt="Lucas Merello — Analista de Cibersegurança. Infraestrutura e Desenvolvimento." width="1200" />
 
 </div>
 
----
+### Da operação ao código. Do código à segurança.
 
-## Sobre mim
+Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia da Computação**. Minha trajetória passa por **Suporte de TI → Desenvolvimento Full Stack → Análise de Redes**. Atualmente, atuo como **Analista de Cibersegurança**, com foco em **infraestrutura e desenvolvimento**.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia da Computação**. Minha trajetória passa por **Suporte de TI**, **Desenvolvimento Full Stack** e **Análise de Redes**. Atualmente, atuo como **Analista de Cibersegurança**, com foco em **infraestrutura e desenvolvimento**. Também concluí o **curso técnico em redes da Cisco**.
+Essa experiência conecta a construção de aplicações aos ambientes em que elas rodam: **redes, Linux, virtualização, containers e automação de deploys**.
 
-### Uma trajetória que conecta as camadas
+<br>
 
-**Suporte de TI → Desenvolvimento Full Stack → Análise de Redes → Cibersegurança**
+<img src="assets/stack.svg" alt="Conhecimentos: Python, C#, Node.js; Angular, React, HTML e CSS; MariaDB, SQL Server e PostgreSQL; Linux, Docker, Kubernetes, redes; Hyper-V, VirtualBox e Proxmox. Familiaridade com CI/CD, GitHub Actions e deploy em Linux." width="1200" />
 
-<table>
-<tr><td width="50%" valign="top"><h3>01 / Construir</h3>Aplicações com <b>C#, Python e Node.js</b>, interfaces com <b>Angular e React</b> e bancos relacionais.</td><td width="50%" valign="top"><h3>02 / Sustentar</h3><b>Linux, redes, virtualização e containers.</b> Conhecimentos em Docker, Kubernetes, Hyper-V, VirtualBox e Proxmox.</td></tr>
-<tr><td width="50%" valign="top"><h3>03 / Automatizar</h3>Familiaridade com <b>GitHub Actions, CI/CD e deploys automáticos</b> em ambientes Linux.</td><td width="50%" valign="top"><h3>04 / Proteger</h3>Atuação como <b>Analista de Cibersegurança</b>, com estudos em Cloud Security, AppSec e Pentest.</td></tr>
-</table>
+<br><br>
 
-Tenho familiaridade com **CI/CD usando GitHub Actions** e **deploys automáticos em Linux**. Hoje, aprofundo meus estudos em **Cloud Security, AppSec e Pentest**.
+<img src="assets/learning.svg" alt="ADS concluído; Engenharia da Computação em andamento. Cursos concluídos: técnico em redes Cisco, Analista de Cibersegurança Júnior e Analista SOC pela Hackone. Estudos atuais: Cloud Security, AppSec e Pentest." width="1200" />
 
-## Stack & infraestrutura
+<br><br>
 
-### Desenvolvimento
+<img src="assets/nexus.svg" alt="Nexus Central: projeto de gestão de ativos, estoque e chamados de TI, com C# / .NET, Angular e banco relacional. Em desenvolvimento, código ainda não publicado e em preparação para colaboração open source." width="1200" />
 
-![Python](https://img.shields.io/badge/Python-11161E?style=for-the-badge&logo=python&logoColor=C7F77A) ![C#](https://img.shields.io/badge/C%23-11161E?style=for-the-badge&logo=dotnet&logoColor=C7F77A) ![Node.js](https://img.shields.io/badge/Node.js-11161E?style=for-the-badge&logo=nodedotjs&logoColor=C7F77A)
+Meu foco no Nexus é evoluir o projeto, documentar decisões técnicas e preparar o caminho para contribuições da comunidade.
 
-### Interfaces
-
-![Angular](https://img.shields.io/badge/Angular-11161E?style=for-the-badge&logo=angular&logoColor=C7F77A) ![React](https://img.shields.io/badge/React-11161E?style=for-the-badge&logo=react&logoColor=C7F77A) ![HTML5](https://img.shields.io/badge/HTML5-11161E?style=for-the-badge&logo=html5&logoColor=C7F77A) ![CSS3](https://img.shields.io/badge/CSS3-11161E?style=for-the-badge&logo=css&logoColor=C7F77A)
-
-### Bancos de dados
-
-![MariaDB](https://img.shields.io/badge/MariaDB-11161E?style=for-the-badge&logo=mariadb&logoColor=C7F77A) ![SQL Server](https://img.shields.io/badge/SQL%20Server-11161E?style=for-the-badge&logoColor=C7F77A) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11161E?style=for-the-badge&logo=postgresql&logoColor=C7F77A)
-
-### Infraestrutura & entrega
-
-![Linux](https://img.shields.io/badge/Linux-11161E?style=for-the-badge&logo=linux&logoColor=C7F77A) ![Docker](https://img.shields.io/badge/Docker-11161E?style=for-the-badge&logo=docker&logoColor=C7F77A) ![Kubernetes](https://img.shields.io/badge/Kubernetes-11161E?style=for-the-badge&logo=kubernetes&logoColor=C7F77A) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-11161E?style=for-the-badge&logo=githubactions&logoColor=C7F77A) ![Proxmox](https://img.shields.io/badge/Proxmox-11161E?style=for-the-badge&logo=proxmox&logoColor=C7F77A) ![VirtualBox](https://img.shields.io/badge/VirtualBox-11161E?style=for-the-badge&logo=virtualbox&logoColor=C7F77A)
-
-**Também utilizo:** Hyper-V · Redes · Virtualização · Deploy automatizado em Linux.
-
-## Formação & estudos
-
-| Caminho | Situação |
-| :--- | :--- |
-| Análise e Desenvolvimento de Sistemas | Graduação concluída |
-| Engenharia da Computação | Graduação em andamento |
-| Curso técnico em redes · Cisco | Curso concluído |
-| Analista de Cibersegurança Júnior | Curso concluído |
-| Analista SOC · Hackone | Curso concluído |
-| Cloud Security · AppSec · Pentest | Em estudo |
-
-> **Estudando agora:** Cloud Security · AppSec · Pentest.
-
-## Projeto em destaque
-
-### Nexus Central
-
-**Gestão de ativos, estoque e chamados de TI em um projeto integrado.**
-
-| Projeto | Tecnologias | Próximos passos |
-| :--- | :--- | :--- |
-| Nexus Central | C# / .NET · Angular · Banco relacional | Evoluir o projeto, documentar decisões e preparar a colaboração open source |
-
-O código ainda não foi publicado. A proposta é compartilhar a evolução técnica e abrir espaço para contribuições quando o projeto estiver preparado.
-
-<details>
-<summary><b>💡 O que quero compartilhar por aqui</b></summary>
-
-- Projetos e decisões de desenvolvimento.
-- Aprendizados em redes, virtualização e containers.
-- Automações de entrega de software.
-- Evolução dos estudos em segurança.
-
-</details>
-
----
+<br>
 
 <div align="center">
 
-**Código que resolve. Segurança que faz parte.**
+[**Acompanhe meus projetos e estudos ↗**](https://github.com/LucasMerello?tab=repositories)
 
-<sub>Desenvolvimento · Redes · Infraestrutura · Aprendizado contínuo</sub>
+<sub>Construir · Conectar · Automatizar · Proteger</sub>
 
 </div>
