@@ -10,9 +10,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia d
 
 Essa experiência conecta a construção de aplicações aos ambientes em que elas rodam: **redes, Linux, virtualização, containers e automação de deploys**.
 
+Também já trabalhei com **Active Directory, NAS QNAP e Veeam**, além de **Wazuh, Zabbix, Grafana, Prometheus, Promtail e Loki** em segurança, monitoramento e logs.
+
 <br>
 
-<img src="assets/stack.svg" alt="Conhecimentos: Python, C#, Node.js; Angular, React, HTML e CSS; MariaDB, SQL Server e PostgreSQL; Linux, Docker, Kubernetes, redes; Hyper-V, VirtualBox e Proxmox. Familiaridade com CI/CD, GitHub Actions e deploy em Linux." width="1200" />
+<img src="assets/stack.svg" alt="Tecnologias: Python, C#, Node.js; Angular, React, HTML e CSS; MariaDB, SQL Server e PostgreSQL; Linux, Docker, Kubernetes, redes; Hyper-V, VirtualBox e Proxmox; Active Directory, NAS QNAP, Veeam, Wazuh, Zabbix, Grafana, Prometheus, Promtail e Loki. Familiaridade com CI/CD, GitHub Actions e deploy em Linux." width="1200" />
 
 <br><br>
 
