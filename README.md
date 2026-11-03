@@ -16,7 +16,7 @@
 
 ## 👋 Quem está por trás do código
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia da Computação**. Já atuei como **analista de redes** e concluí o **curso técnico em redes da Cisco**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia da Computação**. Minha trajetória passa por **Suporte de TI**, **Desenvolvimento Full Stack** e **Análise de Redes**. Atualmente, atuo como **Analista de Cibersegurança**, com foco em **infraestrutura e desenvolvimento**. Também concluí o **curso técnico em redes da Cisco**.
 
 Conecto desenvolvimento, infraestrutura e cibersegurança: de aplicações com **C#, Python e Node.js** a interfaces com **Angular e React**, passando por bancos relacionais, virtualização e containers.
 
