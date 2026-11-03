@@ -1,9 +1,5 @@
 <div align="center">
 
-# Lucas Merello
-
-### Desenvolvimento · Infraestrutura · Cibersegurança
-
 <img src="assets/banner.gif" alt="Banner animado de Lucas Merello: desenvolvimento, infraestrutura, redes e cibersegurança." width="1000" />
 
 **ADS concluído &nbsp; / &nbsp; Engenharia da Computação em andamento**
@@ -14,15 +10,22 @@
 
 ---
 
-## 👋 Quem está por trás do código
+## Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia da Computação**. Minha trajetória passa por **Suporte de TI**, **Desenvolvimento Full Stack** e **Análise de Redes**. Atualmente, atuo como **Analista de Cibersegurança**, com foco em **infraestrutura e desenvolvimento**. Também concluí o **curso técnico em redes da Cisco**.
 
-Conecto desenvolvimento, infraestrutura e cibersegurança: de aplicações com **C#, Python e Node.js** a interfaces com **Angular e React**, passando por bancos relacionais, virtualização e containers.
+### Uma trajetória que conecta as camadas
+
+**Suporte de TI → Desenvolvimento Full Stack → Análise de Redes → Cibersegurança**
+
+<table>
+<tr><td width="50%" valign="top"><h3>01 / Construir</h3>Aplicações com <b>C#, Python e Node.js</b>, interfaces com <b>Angular e React</b> e bancos relacionais.</td><td width="50%" valign="top"><h3>02 / Sustentar</h3><b>Linux, redes, virtualização e containers.</b> Conhecimentos em Docker, Kubernetes, Hyper-V, VirtualBox e Proxmox.</td></tr>
+<tr><td width="50%" valign="top"><h3>03 / Automatizar</h3>Familiaridade com <b>GitHub Actions, CI/CD e deploys automáticos</b> em ambientes Linux.</td><td width="50%" valign="top"><h3>04 / Proteger</h3>Atuação como <b>Analista de Cibersegurança</b>, com estudos em Cloud Security, AppSec e Pentest.</td></tr>
+</table>
 
 Tenho familiaridade com **CI/CD usando GitHub Actions** e **deploys automáticos em Linux**. Hoje, aprofundo meus estudos em **Cloud Security, AppSec e Pentest**.
 
-## 🛠️ Minha caixa de ferramentas
+## Stack & infraestrutura
 
 ### Desenvolvimento
 
@@ -42,7 +45,7 @@ Tenho familiaridade com **CI/CD usando GitHub Actions** e **deploys automáticos
 
 **Também utilizo:** Hyper-V · Redes · Virtualização · Deploy automatizado em Linux.
 
-## 🛡️ Formação & aprendizado contínuo
+## Formação & estudos
 
 | Caminho | Situação |
 | :--- | :--- |
@@ -53,9 +56,11 @@ Tenho familiaridade com **CI/CD usando GitHub Actions** e **deploys automáticos
 | Analista SOC · Hackone | Curso concluído |
 | Cloud Security · AppSec · Pentest | Em estudo |
 
-> **Foco atual:** aprofundar segurança de aplicações, fundamentos de segurança em nuvem e testes de segurança. Cloud Security faz parte da minha trilha de estudos; ainda não tenho experiência prática com AWS, Azure ou Google Cloud.
+> **Estudando agora:** Cloud Security · AppSec · Pentest.
 
-## 🚀 Em construção: Nexus Central
+## Projeto em destaque
+
+### Nexus Central
 
 **Gestão de ativos, estoque e chamados de TI em um projeto integrado.**
 
